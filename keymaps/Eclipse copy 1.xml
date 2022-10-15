@@ -1,0 +1,9 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="Console.Open" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="RunTargetAction" />
+  <action id="runShellFileAction">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+</keymap>
